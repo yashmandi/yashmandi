@@ -1,6 +1,6 @@
 
-<h1 align="center">hi, i'm yash :)</h1>
-<h3 align="center">A Passionate Software Engineer from Pune, India</h3>
+<h1 align="left">hi, i'm yash :)</h1>
+<h3 align="left">A Passionate Software Engineer from Pune, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmandi" alt="yashmandi" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working with **MERN Projects**
 
-- 🌱 I’m currently learning **TypeScript, Docker and (some) AI Tools**
+- 🌱 I’m learning **TypeScript, Docker and (some) AI Tools**
 
 - 📝 I regularly write articles on [https://yashmandi.hashnode.dev/](https://yashmandi.hashnode.dev/)
 
