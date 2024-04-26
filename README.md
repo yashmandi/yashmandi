@@ -18,6 +18,7 @@
 - ChatNet: Real-time chat app using socket programming  [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
 - Blogify: Blog writing app [(Link)](https://github.com/yashmandi/react-mini-projects/tree/main/project20_blog) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7184932937140715520/)
 - Expense Tracker App [(Live)](https://expense-tracker-nu-taupe.vercel.app/) [(Demo Vid)](https://www.linkedin.com/posts/yashmandi_webdevelopment-webdesign-webdeveloper-activity-7186279750523383808-T271?utm_source=share&utm_medium=member_desktop)
+- Joke Generator [(Live)](https://joke-generator-iota-nine.vercel.app/) 
 - Flavora (Frontend Site) [(Live)](https://flavora-drab.vercel.app/#) [(Demo Vid)](https://github.com/yashmandi/flavora)
 
 <h3 align="left">Languages and Tools:</h3>
