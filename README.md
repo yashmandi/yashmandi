@@ -1,8 +1,8 @@
 
 <h1 align="left">hi, i'm yash :)</h1>
-<p align="left">i'm a 23 year old from pune. currently pursuing masters in computer science, and have been working as a software engineer intern at startup softtrine solutions and a part-time freelancer.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
+<p align="left">I'm a 23 year old from Pune. Currently pursuing Masters in Computer Science, and have been working as a Software Engineer Intern at startup and a part-time freelancer.  I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
 
-<h4 align="left">technologies I work with:</h4>
+<h4 align="left">Technologies I work with:</h4>
 
 - MERN Stack
 - JavaScript 
@@ -12,7 +12,7 @@
 - TailwindCSS
 - Bootstrap
   
-<h4 align="left">some of my projects:</h4>
+<h4 align="left">Some of my projects:</h4>
 
 - EasyEats: Recipe searching app [(Live)](https://easy-eats-recipe-app.vercel.app/) [(Demo Video)](https://www.linkedin.com/feed/update/urn:li:activity:7183798998799900672/) 
 - ChatNet: Real-time chat app using socket programming  [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
