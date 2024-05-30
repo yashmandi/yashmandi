@@ -15,6 +15,7 @@
 <h4 align="left">Some of my projects:</h4>
 
 - supachat: Real-time chat application using Firebase and React [(Link)](https://github.com/yashmandi/supachat)
+- SafeCypher: Your Personal Password Manager with CRUD Functionalities [(Live)](https://safecypher.vercel.app/) [(Link)](https://github.com/yashmandi/password-manager)
 - EasyEats: Recipe searching app [(Live)](https://easy-eats-recipe-app.vercel.app/) [(Demo Video)](https://www.linkedin.com/feed/update/urn:li:activity:7183798998799900672/) 
 - ChatNet: Real-time chat app using socket programming  [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
 - Blogify: Blog writing app [(Link)](https://github.com/yashmandi/react-mini-projects/tree/main/project20_blog) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7184932937140715520/)
