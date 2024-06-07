@@ -6,7 +6,6 @@
 
 - MERN
 - JavaScript 
-- TypeScript
 - Java + SpringBoot
 - SQL / MySQL
 - TailwindCSS
