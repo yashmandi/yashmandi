@@ -1,6 +1,6 @@
 
 <h1 align="left">hi, i'm yash :)</h1>
-<p align="left">i'm a 23 year old from pune. currently pursuing masters in computer science, and have been working as a software engineer intern at startup and a part-time freelancer.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
+<p align="left">i'm a 23 year old from pune. currently pursuing masters in computer science, and have been working as a software engineer intern at a startup.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
 
 <h4 align="left">tech stack i work with:</h4>
 
