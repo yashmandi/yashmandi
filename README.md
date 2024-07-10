@@ -17,9 +17,8 @@
 - supachat: Real-time chat application using Firebase and React [(Link)](https://github.com/yashmandi/supachat)
 - SafeCypher: Your Personal Password Manager with CRUD Functionalities [(Live)](https://safecypher.vercel.app/) [(Link)](https://github.com/yashmandi/password-manager)
 - EasyEats: Recipe searching app [(Live)](https://easy-eats-recipe-app.vercel.app/) [(Demo Video)](https://www.linkedin.com/feed/update/urn:li:activity:7183798998799900672/) 
-- ChatNet: Real-time chat app using socket programming  [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
+- ChatNet: Real-time chat app using socket programming. [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
 - Blogify: Blog writing app [(Link)](https://github.com/yashmandi/react-mini-projects/tree/main/project20_blog) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7184932937140715520/)
-- Expense Tracker App [(Live)](https://expense-tracker-nu-taupe.vercel.app/) [(Demo Vid)](https://www.linkedin.com/posts/yashmandi_webdevelopment-webdesign-webdeveloper-activity-7186279750523383808-T271?utm_source=share&utm_medium=member_desktop)
 - Flavora (Frontend Site) [(Live)](https://flavora-drab.vercel.app/#) [(Link)](https://github.com/yashmandi/flavora)
 
 <h3 align="left">Languages and Tools:</h3>
