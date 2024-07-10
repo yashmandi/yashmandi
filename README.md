@@ -13,6 +13,7 @@
   
 <h4 align="left">some of my "good" projects:</h4>
 
+- Scribbie: Full-Stack and Responsive Notes Application. [(Live)](https://scribbie-notes.vercel.app)
 - supachat: Real-time chat application using Firebase and React [(Link)](https://github.com/yashmandi/supachat)
 - SafeCypher: Your Personal Password Manager with CRUD Functionalities [(Live)](https://safecypher.vercel.app/) [(Link)](https://github.com/yashmandi/password-manager)
 - EasyEats: Recipe searching app [(Live)](https://easy-eats-recipe-app.vercel.app/) [(Demo Video)](https://www.linkedin.com/feed/update/urn:li:activity:7183798998799900672/) 
