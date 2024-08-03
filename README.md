@@ -1,6 +1,6 @@
 
 <h1 align="left">hi, i'm yash :)</h1>
-<p align="left">i'm a 23 year old from pune. recently completed masters in computer science, and have been working as a software engineer intern at a startup.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
+<p align="left">i'm a 23 year old from pune. recently completed masters in computer science, and have been working as a business analyst at a startup.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
 
 <h4 align="left">tech stack i work with:</h4>
 
@@ -13,11 +13,11 @@
   
 <h4 align="left">some of my "good" projects:</h4>
 
+- growjob: Simple and Minimalistic Job Board focused for Tech Jobs. [(Live)](https://growjobs.vercel.app/)
 - Scribbie: Full-Stack and Responsive Notes Application. [(Live)](https://scribbie-notes.vercel.app)
 - supachat: Real-time chat application using Firebase and React [(Link)](https://github.com/yashmandi/supachat)
 - SafeCypher: Your Personal Password Manager with CRUD Functionalities [(Live)](https://safecypher.vercel.app/) [(Link)](https://github.com/yashmandi/password-manager)
 - EasyEats: Recipe searching app [(Live)](https://easy-eats-recipe-app.vercel.app/) [(Demo Video)](https://www.linkedin.com/feed/update/urn:li:activity:7183798998799900672/) 
-- ChatNet: Real-time chat app using socket programming. [(Link)](https://github.com/yashmandi/ChatNet) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7182764428856090624/)
 - Blogify: Blog writing app [(Link)](https://github.com/yashmandi/react-mini-projects/tree/main/project20_blog) [(Demo Vid)](https://www.linkedin.com/feed/update/urn:li:activity:7184932937140715520/)
 - Flavora (Frontend Site) [(Live)](https://flavora-drab.vercel.app/#) [(Link)](https://github.com/yashmandi/flavora)
 
