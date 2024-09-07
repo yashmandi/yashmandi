@@ -1,15 +1,8 @@
 
 <h1 align="left">hi, i'm yash :)</h1>
-<p align="left">i'm a 23 year old from pune. recently completed masters in computer science, and have been working as a business analyst at a startup.  i'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. i'm a huge productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.</p>
+<p align="left">i'm a 23 year old software developer. currently employed as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies. </p>
 
-<h4 align="left">tech stack i work with:</h4>
-
-- MERN
-- JavaScript 
-- Java + SpringBoot
-- SQL / MySQL
-- TailwindCSS
-- Bootstrap
+<h4 align="left">technologies i work with are: mern stack, javascript, tailwind, java</h4>
   
 <h4 align="left">some of my "good" projects:</h4>
 
