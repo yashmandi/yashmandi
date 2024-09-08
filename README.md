@@ -66,7 +66,6 @@
 <h3>get in touch:</h3>
 
 - LinkedIn - https://www.linkedin.com/in/yashmandi/
-
 - Portfolio - https://yashmandi.vercel.app/
 
 ###
