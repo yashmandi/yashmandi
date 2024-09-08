@@ -6,7 +6,7 @@
   
 <h4 align="left">some of my personal projects:</h4>
 
-- PassGen: Smart Password Manager. [(Live)](https://passgenio.vercel.app/)
+- [(PassGen)](https://passgenio.vercel.app/): Smart Password Manager.
 - RateMyResumeAI: AI Resume Reviewer. [(Live)]([https://passgenio.vercel.app](http://ratemyresumeai.vercel.app/))
 - GrowJob: Minimalistic Job Board focused for Tech Jobs. [(Live)](https://growjobs.vercel.app/)
 - Scribbie: Full-Stack Responsive Notes Application. [(Live)](https://scribbie-notes.vercel.app)
