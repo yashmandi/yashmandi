@@ -63,7 +63,7 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3>get in touch:</h3>
+<h3>📩    get in touch:</h3>
 
 - Gmail - mailto:yashmandi18@gmail.com
 - LinkedIn - https://www.linkedin.com/in/yashmandi/
