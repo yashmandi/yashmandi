@@ -7,7 +7,7 @@
 <h4 align="left">some of my personal projects:</h4>
 
 - [(PassGen)](https://passgenio.vercel.app/) - Smart Password Manager.
-- [(RateMyResumeAI)]([https://passgenio.vercel.app](http://ratemyresumeai.vercel.app/)) - AI Resume Reviewer. 
+- [(RateMyResumeAI)](https://passgenio.vercel.app](http://ratemyresumeai.vercel.app/) - AI Resume Reviewer. 
 - [(GrowJob)](https://growjobs.vercel.app/) - Minimalistic Job Board focused for Tech Jobs.
 - [(Scribbie)](https://scribbie-notes.vercel.app) - Full-Stack Responsive Notes Application.
 - [(Supachat)](https://github.com/yashmandi/supachat) - Real-time chat application using Firestore.
