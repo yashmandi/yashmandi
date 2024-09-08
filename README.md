@@ -1,8 +1,6 @@
 <h1 align="left">hi, i'm yash</h1>
 <p align="left">i'm a 23 year old software developer. currently working as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies.</p>
 
-<p align="left">technologies i work with are: mern stack, javascript, tailwind, java</p>
-
 <h3 align="left">some of my personal projects:</h3>
 <hr style="border: 0; height: 1px; background-color: #ccc;"/>
 
@@ -12,7 +10,9 @@
 - [Scribbie](https://scribbie-notes.vercel.app) - Full-Stack Responsive Notes Application.
 - [Supachat](https://github.com/yashmandi/supachat) - Real-time chat application using Firestore.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages and tools:</h3>
+<hr style="border: 0; height: 1px; background-color: #ccc;"/>
+
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
