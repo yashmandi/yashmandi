@@ -8,7 +8,7 @@
 
 <p align="left">i'm a 23 year old software developer. currently working as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies.</p>
 
-<h3 align="left">some of my personal projects:</h3>
+<h3 align="left">💼  some of my personal projects:</h3>
 
 - [PassGen](https://passgenio.vercel.app/) - Smart Password Manager.
 - [RateMyResumeAI](http://ratemyresumeai.vercel.app/) - AI Resume Reviewer. 
