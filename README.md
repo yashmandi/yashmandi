@@ -26,6 +26,8 @@
 </p>
 
 
+<h3>get in touch:</h3>
+- <p>Twitter: <a href="https://x.com/yashmandi/">https://x.com/yashmandi/</a></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmandi&" alt="yashmandi" /></p>
