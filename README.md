@@ -4,7 +4,7 @@
 <p align="left">technologies i work with are: mern stack, javascript, tailwind, java</p>
 
 <h3 align="left">some of my personal projects:</h3>
-<hr >
+<hr style="border: 0; height: 1px; background-color: #ccc;"/>
 
 - [PassGen](https://passgenio.vercel.app/) - Smart Password Manager.
 - [RateMyResumeAI](http://ratemyresumeai.vercel.app/) - AI Resume Reviewer. 
@@ -33,7 +33,8 @@
 </p>
 
 <h3>get in touch:</h3>
-<hr >
+<hr style="border: 0; height: 1px; background-color: #ccc;"/>
+
 <ul>
   <li>Twitter: <a href="https://x.com/yashmandi/">https://x.com/yashmandi/</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/yashmandi/">https://www.linkedin.com/in/yashmandi/</a></li>
