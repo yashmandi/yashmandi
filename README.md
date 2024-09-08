@@ -60,13 +60,14 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashmandi&theme=dark&border_radius=5.9" alt="GitHub Streak" /></a>
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h3>📩    get in touch:</h3>
 
-- Gmail - mailto:yashmandi18@gmail.com
-- LinkedIn - https://www.linkedin.com/in/yashmandi/
-- Portfolio - https://yashmandi.vercel.app/
+- gmail - mailto:yashmandi18@gmail.com
+- linkedIn - https://www.linkedin.com/in/yashmandi/
+- portfolio - https://yashmandi.vercel.app/
 
 ###
