@@ -1,6 +1,6 @@
 
 <h1 align="left">hi, i'm yash :)</h1>
-<p align="left">i'm a 23 year old software developer. currently employed as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies. </p>
+<p align="left">i'm a 23 year old software developer. currently working as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies. </p>
 
 <p align="left">technologies i work with are: mern stack, javascript, tailwind, java</p>
   
@@ -27,6 +27,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmandi&show_icons=true&locale=en&layout=compact" alt="yashmandi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmandi&" alt="yashmandi" /></p>
