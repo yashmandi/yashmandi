@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">i'm a 23 year old software developer. currently working as a business analyst at a start-up company. my work involves assisting in project management, bridging technical & business requirements & managing strategies.</p>
 
 ###
 
