@@ -1,14 +1,8 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">hey, i'm yash</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  about me:</h3>
 
 ###
 
@@ -22,11 +16,9 @@
 - [Scribbie](https://scribbie-notes.vercel.app) - Full-Stack Responsive Notes Application.
 - [Supachat](https://github.com/yashmandi/supachat) - Real-time chat application using Firestore.
 
-<h3>get in touch:</h3>
-
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 technologies i work with:</h3>
 
 ###
 <div align="center">
@@ -66,6 +58,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<h3>get in touch:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
