@@ -21,7 +21,7 @@
 <h3 align="left">🛠 technologies i work with:</h3>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -59,7 +59,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashmandi&theme=dark&border_radius=5.9" alt="GitHub Streak" /></a>
 </div>
 
