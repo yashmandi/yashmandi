@@ -10,7 +10,7 @@
 
 <h3 align="left">💼  some of my personal projects:</h3>
 
-- [PassGen](https://passgenio.vercel.app/) - Smart Password Manager.
+- [PassPrompt](https://passprompt.vercel.app/) - Smart Password Manager.
 - [RateMyResumeAI](http://ratemyresumeai.vercel.app/) - AI Resume Reviewer. 
 - [GrowJob](https://growjobs.vercel.app/) - Minimalistic Job Board focused for Tech Jobs.
 - [Scribbie](https://scribbie-notes.vercel.app) - Full-Stack Responsive Notes Application.
