@@ -67,6 +67,5 @@
 
 - gmail - mailto:yashmandi18@gmail.com
 - linkedIn - https://www.linkedin.com/in/yashmandi/
-- portfolio - https://yashmandi.vercel.app/
 
 ###
