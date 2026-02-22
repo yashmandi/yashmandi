@@ -19,17 +19,17 @@
 ### my work
 
 - 🦞 **[GrowJob](https://growjobs.vercel.app)** - native job portal
-- 📄 **[cv-gen](https://github.com/yashmandi/job-app)** - ai resume generator that creates job-ready resumes in minutes
-- 🔐 **[passgen](https://github.com/yashmandi/password-gen)** - simple password generator for secure random passwords
-- 🌐 **[web3 notes](https://web3world-yashs-projects-c3b68313.vercel.app/)** - beginner-friendly web3 learning notes and resources
-- 🎧 **[moodscape](https://moodscape-eight.vercel.app/)** - music recommendations based on your mood
-- 📝 **[scribbie](https://github.com/yashmandi/scribbie-notes-app)** - clean notes app for writing and organizing ideas
-- 💰 **[cryptowall](https://github.com/yashmandi/CryptoWall)** - web3 wallet browser extension for managing crypto assets
-- 🧱 **[boilerstack](https://boilerstack.vercel.app/)** - ready-to-use coding boilerplates for faster project setup
-- 📥 **[yt downloader](https://github.com/yashmandi/yt-downloader)** - youtube video downloader built for quick saves
-- 🤖 **[supachat](https://supachat-blue.vercel.app/)** - chatbot powered by google firebase
-- 🍲 **[food recipe generator](https://github.com/yashmandi/food-recipe-app)** - generates recipes based on available ingredients
-- 🔗 **[url shortner](https://github.com/yashmandi/Link-Shortner)** - simple tool to shorten long links into shareable urls
+- 📄 **[CVGen](https://github.com/yashmandi/job-app)** - ai resume generator that creates job-ready resumes in minutes
+- 🔐 **[PassGen](https://github.com/yashmandi/password-gen)** - simple password generator for secure random passwords
+- 🌐 **[Web3World](https://web3world-yashs-projects-c3b68313.vercel.app/)** - beginner-friendly web3 learning notes and resources
+- 🎧 **[MoodScape](https://moodscape-eight.vercel.app/)** - music recommendations based on your mood
+- 📝 **[Scribbie](https://github.com/yashmandi/scribbie-notes-app)** - clean notes app for writing and organizing ideas
+- 💰 **[CryptoWall](https://github.com/yashmandi/CryptoWall)** - web3 wallet browser extension for managing crypto assets
+- 🧱 **[Boilerstack](https://boilerstack.vercel.app/)** - ready-to-use coding boilerplates for faster project setup
+- 📥 **[YTDown](https://github.com/yashmandi/yt-downloader)** - youtube video downloader built for quick saves
+- 🤖 **[SupaChat](https://supachat-blue.vercel.app/)** - chatbot powered by google firebase
+- 🍲 **[Food Recipe Generator](https://github.com/yashmandi/food-recipe-app)** - generates recipes based on available ingredients
+- 🔗 **[URL Shortner](https://github.com/yashmandi/Link-Shortner)** - simple tool to shorten long links into shareable urls
 
 ---
 
@@ -59,11 +59,3 @@ currently deep in:
 ## github activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/yashmandi)
-
----
-
-## lets connect
-
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yashmandi)  
-[![LinkedIn](https://img.shields.io/badge/-Yash_Mandi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmandi)  
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashmandi)
