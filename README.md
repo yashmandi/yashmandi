@@ -14,7 +14,6 @@
 
 > building AI-first products. shipping fast. building & learning in public. playing long-term games.
 
----
 
 ### my work
 
@@ -31,7 +30,6 @@
 - 🍲 **[Food Recipe Generator](https://github.com/yashmandi/food-recipe-app)** - generates recipes based on available ingredients
 - 🔗 **[URL Shortner](https://github.com/yashmandi/Link-Shortner)** - simple tool to shorten long links into shareable urls
 
----
 
 ## what i build
 
@@ -42,11 +40,8 @@
 
 i focus on systems, not features.
 
----
 
-## Learning Path
-
-currently deep in:
+## currently learning
 
 - machine learning fundamentals  
 - LLM architecture + prompting systems  
@@ -54,7 +49,6 @@ currently deep in:
 - backend systems design  
 - execution velocity with AI agents  
 
----
 
 ## github activity
 
