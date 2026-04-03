@@ -48,8 +48,3 @@ i focus on systems, not features.
 - AI product design  
 - backend systems design  
 - execution velocity with AI agents  
-
-
-## github activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/yashmandi)
